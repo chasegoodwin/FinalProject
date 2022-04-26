@@ -6,3 +6,5 @@ Project opened scenes successfully in VS Code, with audio playback working somet
 
 
 ***Printed qr code is functional but audio does not play automatically.  Project 2.0 should include clickable event buttons
+
+***Rotation animation not functioning correctly. special characters must be escaped error addressed by using &gt and &lt tags.
